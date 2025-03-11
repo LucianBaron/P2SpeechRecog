@@ -1,0 +1,17 @@
+venv/
+.idea/
+logs/
+model/
+modele/
+Npy/
+TEST_10sec/
+*.pyc
+__pycache__/
+prepare_dataset.py
+prepare_dataset1.py
+tema_mlp.ipynb
+test1.ipynb
+p2 (1).py
+audio_gtzan.ipynb
+checkpoint
+curs3MLP.ipynb
